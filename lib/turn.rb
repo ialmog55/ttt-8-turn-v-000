@@ -35,6 +35,6 @@ def turn(board)
   end
   move(board, index, "X")
 
-  end
-
 end
+
+
